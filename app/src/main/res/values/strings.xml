@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Articraft</string>
+    <string name="save_img_type">save_img_type</string>
+    <string name="aspect_ratio">aspect_ratio</string>
+</resources>
